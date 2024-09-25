@@ -1,0 +1,6 @@
+Order Code: 1lDLhPTe
+Date and Time: 2024-09-21 09:52:10
+Order Items:
+Product ID: 5, Product Name: 25Kg Rice, Price: 1200 PHP, Quantity: 1
+Product ID: 6, Product Name: One Tray Eggs, Price: 300 PHP, Quantity: 1
+Total Price: 1500 PHP

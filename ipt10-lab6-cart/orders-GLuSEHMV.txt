@@ -1,0 +1,5 @@
+Order Code: GLuSEHMV
+Date and Time: 2024-09-21 09:57:13
+Order Items:
+Product ID: 1, Product Name: 1Kg Sugar, Price: 100 PHP, Quantity: 1
+Total Price: 100 PHP
